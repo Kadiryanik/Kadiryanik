@@ -15,3 +15,6 @@
 <code><a href="https://datatracker.ietf.org/wg/6tisch/about/" target="_blank"><img height="50" width="45" src="https://www.ietfjournal.org/wp-content/uploads/2016/05/IETFfooter-logo.png"></a></code>
 <code><a href="https://www.sublimetext.com/" target="_blank"><img height="50" src="https://img.icons8.com/color/48/000000/sublime-text.png"></a></code>
 <code><a href="https://www.vim.org/" target="_blank"><img height="45" src="https://cdn.iconscout.com/icon/free/png-256/vim-283379.png"></a></code>
+
+<a href="https://www.linkedin.com/in/kadir-yanık-9a4b61127" target="_blank"><img align="left" alt="Kadir's Linkedin" width="20px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg"/></a>
+Do not hesitate to contact me.
