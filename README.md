@@ -1,9 +1,11 @@
 ### Skills
 
+<code><a href="https://www.gnu.org/software/bash/" title="Shell scripting" target="_blank"><img height="50" src="https://img.icons8.com/plasticine/48/000000/bash.png"></a></code>
 <code><a href="" title="C Programming Language"><img height="50" src="https://img.icons8.com/color/48/000000/c-programming.png"></a></code>
 <code><a href="" title="C++ Programming Language"><img height="50" src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png"></a></code>
 <code><a href="https://github.com/contiki-ng/" target="_blank"><img height="50" src="https://pbs.twimg.com/profile_images/1129284469821771776/iA14cJkf.png"></a></code>
 <code><a href="https://github.com/git/" target="_blank"><img height="50" src="https://img.icons8.com/ios-filled/50/000000/git.png"></a></code>
+<code><a href="https://www.gnu.org/software/make/manual/make.html" target="_blank"><img height="45" src="https://www.iconfinder.com/icons/401361/download/png/48"></a></code>
 <code><a href="https://www.java.com/" target="_blank"><img height="50" src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png"></a></code>
 <code><a href="https://www.javascript.com/" target="_blank"><img height="50" src="https://img.icons8.com/color/48/000000/javascript.png"></a></code>
 <code><a href="https://github.com/torvalds/linux/" target="_blank"><img height="50" src="https://img.icons8.com/color/48/000000/linux.png"></a></code>
